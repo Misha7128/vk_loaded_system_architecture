@@ -1,0 +1,1 @@
+# vk_loaded_system_architecture
